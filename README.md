@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Likhare</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">♾️ A passionate Devops Engineer from India</h3>
 
-<h4 align="center">- 🌱 I’m automating deployments through **Devops**∞</h4>
+<h4 align="center">- 👨🏻‍💻 I’m automating deployments through **Devops**</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
